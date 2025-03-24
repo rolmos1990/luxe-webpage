@@ -1,0 +1,40 @@
+# Node modules
+target/
+node_modules/
+
+# Next.js build output
+.next/
+out/
+
+# Next.js static files
+public/exported/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Env files
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# IDE settings
+.vscode/
+.idea/
+
+# MacOS system files
+.DS_Store
+
+# Optional: Ignore TypeScript build files (if using TypeScript)
+*.tsbuildinfo
+
+# Optional: Ignore ESLint and Prettier cache
+.eslintcache
+.prettiercache
+
+# Optional: Ignore build cache (Turbo, Next.js, etc.)
+.turbo/
