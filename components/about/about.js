@@ -21,7 +21,7 @@ const About = (props) => {
                                 <div className="icon">
                                     <Image src={abImg2} alt="" />
                                 </div>
-                                <h2>Award Winning</h2>
+                                <h2>Award Winning 1</h2>
                                 <p>We have a history of successfully delivering IT solutions to a great diverse
                                     clientele, from startups to established enterprises.</p>
                             </div>
