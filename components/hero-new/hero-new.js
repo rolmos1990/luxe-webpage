@@ -38,9 +38,9 @@ const Hero = () => {
                         <h2>Elevate Your Payments with Our Gateway Solutions</h2>
                     </div>
                     <p>Empower Your Transactions with Our Secure Payment Gateway. Seamless Integration, Global Reach, and Robust Security for Hassle-Free Payments. Join Us Today and Elevate Your Online Payment Experience!</p>
-                    <div className="hero-btn">
+                    {/* <div className="hero-btn">
                         <Link href="/about" className="theme-btn" onClick={ClickHandler}> Get Started<i className="ti-arrow-right"></i></Link>
-                    </div>
+                    </div> */}
                 </div>
             </div>
             <div className="image">

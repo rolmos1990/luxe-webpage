@@ -15,13 +15,18 @@ const ServiceSection = (props) => {
                 <Image src={ShapeOn} alt="" />
             </div>
             <div className="container">
+            <h2 className="title text-center">Here is what you can expect</h2>
+                            <p className="text-center">Discover the Future of Online Payments with Our Payment Gateway Services. Fast, Secure, 
+                                and Seamless Transactions. Global Compatibility, Robust Security, and Exceptional User Experience. Elevate Your 
+                                Business with Effortless Payment Solutions. Welcome to a New Era of Digital Transactions.
+                            </p>
             
-                <div className="row justify-content-center">
+                {/* <div className="row justify-content-center">
                     <div className="col-12">
                         <SectionTitle title="Design the Concept
                         of Your Business Idea Now" subtitle="Our Services" />
                     </div>
-                </div>
+                </div> */}
                 <div className="services-wrap">
                     <div className="row">
                         {Services.map((item, sindx) => (
